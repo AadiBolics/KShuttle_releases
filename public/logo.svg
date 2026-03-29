@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+
+  <g transform="translate(-60 110) scale(2.16)">
+
+    <rect x="160" y="140" width="48" height="232" rx="12" fill="#FFFFFF"/>
+
+    <path d="M 210 256 L 310 140 C 320 130 335 130 345 140 
+             C 355 150 355 165 345 175 L 250 280 Z"
+          fill="#FFFFFF"/>
+
+    <path d="M 230 256 L 310 350 
+             C 315 355 322 360 330 365 
+             C 345 370 365 365 375 350 
+             C 385 330 380 305 355 295 
+             L 260 256 Z"
+          fill="#FFFFFF"/>
+
+    <g transform="translate(340,300) scale(0.9)">
+
+      <rect x="0" y="0" width="64" height="30" rx="8" fill="#FFFFFF"/>
+
+      <rect x="10" y="6" width="10" height="8" fill="#18181B"/>
+      <rect x="26" y="6" width="10" height="8" fill="#18181B"/>
+      <rect x="42" y="6" width="10" height="8" fill="#18181B"/>
+
+      <circle cx="6" cy="34" r="6" fill="#FFFFFF"/>
+      <circle cx="18" cy="34" r="6" fill="#FFFFFF"/>
+      <circle cx="46" cy="34" r="6" fill="#FFFFFF"/>
+
+      <circle cx="6" cy="34" r="2.5" fill="#18181B"/>
+      <circle cx="18" cy="34" r="2.5" fill="#18181B"/>
+      <circle cx="46" cy="34" r="2.5" fill="#18181B"/>
+
+    </g>
+
+    <circle cx="360" cy="335" r="14" fill="#FFFFFF"/>
+
+  </g>
+
+</svg>
